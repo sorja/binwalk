@@ -2,7 +2,9 @@
 
 [![Build Status](https://travis-ci.org/ReFirmLabs/binwalk.svg?branch=master)](https://travis-ci.org/ReFirmLabs/binwalk)
 
-Binwalk is a fast, easy to use tool for analyzing, reverse engineering, and extracting firmware images.
+Binwalk is a fast, easy to use tool for analyzing, reverse engineering, and extracting firmware images. 
+
+[Documentation](https://github.com/ReFirmLabs/binwalk/wiki)
 
 ## Installation
 Binwalk follows the standard Python installation procedure:
